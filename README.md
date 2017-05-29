@@ -34,6 +34,7 @@ actual directory names.
   - [`Time 2 Goal`](https://github.com/choongyouqi/omnibus/tree/master/JavaScript/Time2Goal)
 - `VBScript/`
   - [`Windows Server Audit Script`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/HardeningTool)
+  - [`Live Salary Calculator`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/SalaryCalculator)
 - `Python/`
   - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/Python/Dummy1)
 - `NodeJS/`
