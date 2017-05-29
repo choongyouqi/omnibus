@@ -33,7 +33,7 @@ actual directory names.
 - `JavaScript/`
   - [`Time 2 Goal`](https://github.com/choongyouqi/omnibus/tree/master/JavaScript/Time2Goal)
 - `VBScript/`
-  - [`Windows Server 2003 Hardening Script`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/HardeningTool)
+  - [`Windows Server Audit Script`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/HardeningTool)
 - `Python/`
   - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/Python/Dummy1)
 - `NodeJS/`
