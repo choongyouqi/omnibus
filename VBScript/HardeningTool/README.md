@@ -1,4 +1,4 @@
-# Windows Server 2003 Hardening Script
+# Windows Server Audit Script
 
 One of the first automation scripts I have written back in the days to ease my task in auditing hundred over production servers.
 
