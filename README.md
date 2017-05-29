@@ -27,13 +27,15 @@ actual directory names.
 
 - `Android/`
   - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/Android/Dummy1)
-- `Python/`
-  - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/Python/Dummy1)
 - `PHP/`
   - [`Day of My Life`](https://github.com/choongyouqi/omnibus/tree/master/PHP/DayOfMyLife)
   - [`Dummy2`](https://github.com/choongyouqi/omnibus/tree/master/PHP/Dummy2)
 - `JavaScript/`
   - [`Time 2 Goal`](https://github.com/choongyouqi/omnibus/tree/master/JavaScript/Time2Goal)
+- `VBScript/`
+  - [`Windows Server 2003 Hardening Script`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/HardeningTool)
+- `Python/`
+  - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/Python/Dummy1)
 - `NodeJS/`
   - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/NodeJS/Dummy1)
   - [`Dummy2`](https://github.com/choongyouqi/omnibus/tree/master/NodeJS/Dummy2)
