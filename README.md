@@ -29,6 +29,7 @@ shortened form of the programming languages.
   - [`Dummy2`](https://github.com/choongyouqi/omnibus/tree/master/PHP/Dummy2)
 - `JavaScript/`
   - [`Time 2 Goal`](https://github.com/choongyouqi/omnibus/tree/master/JavaScript/Time2Goal)
+  - [`DateTime Input`](https://github.com/choongyouqi/omnibus/tree/master/JavaScript/DateTimeInput)
 - `VBScript/`
   - [`Windows Server Audit Script`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/HardeningTool)
   - [`Live Salary Calculator`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/SalaryCalculator)
