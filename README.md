@@ -18,10 +18,7 @@ All of the source code in this archive is licensed under the
 Apache 2.0 license except as noted.
 
 The names of the top-level directories roughly correspond to a
-shortened form of the chapter titles. Since chapter numbers
-change with every release, and since some samples are used by
-multiple chapters, I am loathe to put chapter numbers in the
-actual directory names.
+shortened form of the programming languages. 
 
 ## List of Samples
 
@@ -37,7 +34,7 @@ actual directory names.
   - [`Live Salary Calculator`](https://github.com/choongyouqi/omnibus/tree/master/VBScript/SalaryCalculator)
 - `Python/`
   - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/Python/Dummy1)
-- `NodeJS/`
+- [`NodeJS/`](https://github.com/choongyouqi/omnibus/tree/master/NodeJS)
   - [`Dummy1`](https://github.com/choongyouqi/omnibus/tree/master/NodeJS/Dummy1)
   - [`Dummy2`](https://github.com/choongyouqi/omnibus/tree/master/NodeJS/Dummy2)
 - `ShellScripting/`
